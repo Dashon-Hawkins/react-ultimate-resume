@@ -18,7 +18,7 @@ This app is built using the popular [create-react-app](https://github.com/facebo
 
 ### Preview
 
-[![Resume Preview](https://cdn.filestackcontent.com/compress/resize=width:500/rfXY8TNARdao9DdQSaJe)](https://vincent-cotro.welovedevs.com)
+[![Resume Preview](https://cdn.filestackcontent.com/compress/resize=width:500/rfXY8TNARdao9DdQSaJe)](https://vincent-cotro.welovedevs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/Dashon-Hawkins/react-ultimate-resume.svg)](https://greenkeeper.io/)
 
 ### Docs
 
