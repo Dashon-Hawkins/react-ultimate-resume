@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "doc/website/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
