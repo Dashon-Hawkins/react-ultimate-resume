@@ -42,7 +42,7 @@
         "cp-cli": "^2.0.0",
         "downloadjs": "^1.4.7",
         "formik": "^2.1.2",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.20",
         "moment": "^2.24.0",
         "react-dropzone": "^10.2.1",
         "react-emoji-render": "^1.2.1",
