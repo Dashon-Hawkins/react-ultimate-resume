@@ -36,7 +36,7 @@
         "@formatjs/intl-relativetimeformat": "^4.5.9",
         "@material-ui/pickers": "^3.2.9",
         "@welovedevs/ui": "^1.0.0",
-        "chroma-js": "^2.1.0",
+        "chroma-js": "^2.2.0",
         "classnames": "^2.2.6",
         "copy-to-clipboard": "^3.3.1",
         "cp-cli": "^2.0.0",
